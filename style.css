@@ -9,3 +9,13 @@ h1 {
     font-family: Georgia;
     color: #954535;
 }
+
+.recipe-main-image { 
+    background-color: bisque;
+    padding: 50px;
+    width: 250px;
+}
+
+.turkish-eggs {
+    width: 20px;
+}
