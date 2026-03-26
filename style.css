@@ -10,14 +10,14 @@ h1 {
     color: #954535;
 }
 
-.recipe-main-image { 
+.main-image-container { 
     background-color: bisque;
     padding: 50px;
-    width: 250px;
+    width: 20px;
 }
 
-.turkish-eggs {
-    width: 20px;
+.recipe-main-image {
+    width: 150px;
 }
 
 h2 {
