@@ -1,0 +1,11 @@
+/* Add CSS styling below */
+
+* {
+    box-sizing: border-box;
+    font-family: Georgia, sans-serif;
+}
+
+h1 {
+    font-family: Georgia;
+    color: #954535;
+}
