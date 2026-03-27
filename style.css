@@ -8,6 +8,8 @@
 h1 {
     font-family: Georgia;
     color: #954535;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 h2 {
@@ -16,10 +18,13 @@ h2 {
 
 body{
     color: black;
+    margin:  15px auto;
+    width: 500px;
 }
 
 li {
     color: black;
+    margin-bottom: 5px;
 }
 
 .recipe-link-container{
@@ -42,6 +47,7 @@ li {
 }
 
 .recipe-main-image {
-    width: 250px;
+    width: 450px;
+    margin-right: 50px;
 }
 
