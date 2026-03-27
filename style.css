@@ -10,6 +10,31 @@ h1 {
     color: #954535;
 }
 
+h2 {
+    margin: 10px auto;
+}
+
+body{
+    color: black;
+}
+
+li {
+    color: black;
+}
+
+.recipe-link-container{
+    border: 10px #954535;
+    background-color: darkslategray;
+    padding: 40px;
+    margin: 8px;
+}
+
+
+.recipe-link {
+    color: antiquewhite;
+    font-size: 24px;
+}
+
 .main-image-container { 
     background-color: bisque;
     padding: 50px;
@@ -17,9 +42,6 @@ h1 {
 }
 
 .recipe-main-image {
-    width: 150px;
+    width: 250px;
 }
 
-h2 {
-    margin: 10px auto;
-}
